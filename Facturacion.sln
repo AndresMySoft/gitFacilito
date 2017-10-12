@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturacion", "Facturacion\Facturacion.csproj", "{3C614043-80B8-4E7B-B1E7-5A5A42CDDB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Milibreria2", "Milibreria2\Milibreria2.csproj", "{D7AF2E0D-B386-4C5E-9AD5-82531C11FD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C614043-80B8-4E7B-B1E7-5A5A42CDDB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C614043-80B8-4E7B-B1E7-5A5A42CDDB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C614043-80B8-4E7B-B1E7-5A5A42CDDB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C614043-80B8-4E7B-B1E7-5A5A42CDDB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7AF2E0D-B386-4C5E-9AD5-82531C11FD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AF2E0D-B386-4C5E-9AD5-82531C11FD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AF2E0D-B386-4C5E-9AD5-82531C11FD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AF2E0D-B386-4C5E-9AD5-82531C11FD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
